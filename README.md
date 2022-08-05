@@ -3,16 +3,16 @@
 
 I am a Physicist commited to apply the Scientific Method to data. 
 
-Passionate about: data cleaning, pipelines, extracting intelligence from available sources, inferring what is not there and telling the story behind.
+Currently working as Data Engineer, providing reliable & scalable solutions.
+Passionate about Data Science matters.
 
-- PySpark + Bash.
-- Pandas + Sckit-learn + TensorFlow.
-- SQL + dashboarding.
-- Cloud Functions + Pub/Sub + Scheduler + Transfer + BigQuery.
+- SQL + Jinja SQL + DBT .
+- PySpark + Bash .
+- Pandas + Sckit-learn + TensorFlow .
+- CICD + pipelines in GCP .
 
 What happened so that a serious job could be described with emojis?  🐍💥 + 🐍 + 🐼 + 🐬 + 📊  + ☁️ 
 
-- *Currently sharpening my ML skills and finishing an AI master while working.*
 <details><summary> Click to expand.</summary>
 <p>
 
